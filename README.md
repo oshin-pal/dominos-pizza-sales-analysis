@@ -42,6 +42,6 @@ Contributions are welcome!
 If you have ideas for improving the analysis or want to extend the project, feel free to open an issue or submit a pull request.
 
 
-## 🙋‍♂️ About
+## 🙋‍♀️ About Me
 
 Hi, I am Oshin! Created with 💙 to demonstrate business intelligence alongside advanced SQL-based data analytics skills.
