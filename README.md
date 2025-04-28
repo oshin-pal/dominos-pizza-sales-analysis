@@ -28,7 +28,7 @@ pizza-sales-analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pizza-sales-analysis.git
+   git clone https://github.com/oshin-pal/dominos-pizza-sales-analysis.git
    ```
 2. Open the data:
    - Open the files inside the data/ folder (orders.csv, order_details.csv, etc.).
