@@ -35,9 +35,6 @@ pizza-sales-analysis/
 3. Review the final report:
    - Check out Dominos_Pizza_Sales_Analysis.pdf for detailed insights.
 
-## 🖼️ Dashboard Preview
-
-> *The analysis provides a deep dive into key metrics like revenue trends, popular pizzas, and ordering patterns.*
 
 ## 🤝 Contributing
 
@@ -47,4 +44,4 @@ If you have ideas for improving the analysis or want to extend the project, feel
 
 ## 🙋‍♂️ About
 
-Hi, I am Oshin! Created with 💙 to demonstrate business intelligence alongside advanced SQL-based data analytics skills."
+Hi, I am Oshin! Created with 💙 to demonstrate business intelligence alongside advanced SQL-based data analytics skills.
